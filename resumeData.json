@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name":"Ayman Abd-Elaziz",
+    "occupation":"Accountant",
+    "description":"", 
+    "image":"profilepic.jpg",
+    "bio":"I have 5 years of experience in Accounting, Central Cash Operations and Customer Service, and I have the skills and capabilities that make me easily integrated with your work environment to achieve my goal and reach an advanced level in the profession.",
+    "contactmessage":"This part is not right funcationally yet you can contact me directly through email.",
+    "email": "aymaan.ahmed91@gmail.com",
+    "phone": "+201062600750",
+    "address":{
+      "street":"62 Algomhourya,St-Tema",
+      "city":"Sohag",
+      "state":"",
+      "zip": "00202"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1fbTc-9fDP_CaT7xiUZlT7WTNslFGLdpT/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ayman.zizo.992",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://www.linkedin.com/in/ayman-ahmed-48a616129",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am always trying to improve my self and develop new skills",
+    "education":[
+      {
+        "school":" Sohag University",
+        "degree":"Accounting and Auditing Diploma",
+        "graduated":"2017 : 2018",
+        "description":"Very Good"
+      },
+      {
+        "school":"Sohag University",
+        "degree":"Bachelor Degree of B.A Faculty of Commerce",
+        "graduated":"2009 : 2013",
+        "description":"Good"
+      }
+    ],
+    "work":[
+      {
+        "company":"Alex Bank",
+        "title":"Customer Service Representative",
+        "years":"Dec 2019 - Aug 2020",
+        "description":""
+      },
+      {
+        "company":"The United Bank",
+        "title":"Central Cash Operations",
+        "years":"Aug 2018  - Nov 2019",
+        "description":""
+      },
+      {
+        "company":"The United Bank",
+        "title":"Employment of Funds",
+        "years":"May 2018  - Aug 2018",
+        "description":""
+      },
+      {
+        "company":"The United Bank",
+        "title":"Call Center Agent",
+        "years":"Jan 2018  - May 2018",
+        "description":""
+      },
+      {
+        "company":"Wonder Tourism Company in Sohag",
+        "title":"Accountant",
+        "years":"Jan 2017 - Nov 2017",
+        "description":""
+      },
+      {
+        "company":"t the East Al-Tafrea project in Port Said",
+        "title":"Accountant",
+        "years":"May 2016 - Dec 2016",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Work in a team",
+        "level":"60%"
+      },
+      {
+        "name":"Fast learning",
+        "level":"80%"
+      },
+      {
+        "name":"Organized",
+        "level":"50%"
+      },
+      {
+        "name":"Motivated",
+        "level":"90%"
+      },
+      {
+        "name":"Flexible",
+        "level":"80%"
+      },
+      {
+        "name":"E-quation",
+        "level":"80%"
+      },
+      {
+        "name":"E-Journal",
+        "level":"80%"
+      },
+      {
+        "name":"Microsoft Office",
+        "level":"80%"
+      },
+      {
+        "name":"Reliable",
+        "level":"70%"
+      }
+    ]
+  }
+}

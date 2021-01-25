@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ayman/static/css/main.5facb584.chunk.css",
+    "main.js": "/ayman/static/js/main.72cb59a7.chunk.js",
+    "main.js.map": "/ayman/static/js/main.72cb59a7.chunk.js.map",
+    "runtime-main.js": "/ayman/static/js/runtime-main.80987d42.js",
+    "runtime-main.js.map": "/ayman/static/js/runtime-main.80987d42.js.map",
+    "static/js/2.d81c19b1.chunk.js": "/ayman/static/js/2.d81c19b1.chunk.js",
+    "static/js/2.d81c19b1.chunk.js.map": "/ayman/static/js/2.d81c19b1.chunk.js.map",
+    "index.html": "/ayman/index.html",
+    "precache-manifest.8877b2a2216d739ea69990e8a6609f41.js": "/ayman/precache-manifest.8877b2a2216d739ea69990e8a6609f41.js",
+    "service-worker.js": "/ayman/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/ayman/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.d81c19b1.chunk.js.LICENSE.txt": "/ayman/static/js/2.d81c19b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80987d42.js",
+    "static/js/2.d81c19b1.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.72cb59a7.chunk.js"
+  ]
+}
